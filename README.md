@@ -23,12 +23,4 @@ This project was built as a **UI-focused proof of concept** to showcase web deve
 - **Chart.js**  
 - **Font Awesome**  
 
----
-
-## 📂 Project Structure
-phishing-attack-visualizer/
-│
-├── index.html # Main dashboard layout
-├── style.css # Custom styles + animations
-├── script.js # Attack simulation + chart logic
-└── README.md # Documentation
+-
