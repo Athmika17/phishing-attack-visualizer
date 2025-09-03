@@ -1,7 +1,7 @@
 # 🛡️ Phishing Attack Visualizer
 
 A **real-time, single-page dashboard** that simulates and visualizes phishing attacks.  
-This project was built as a **UI-focused proof of concept** to showcase web development skills in a **cybersecurity context** (inspired by Barracuda’s phishing protection focus).  
+This project was built as a **UI-focused proof of concept** to showcase web development skills in a **cybersecurity context** .  
 
 ![Phishing Attack Visualizer Screenshot](screenshot.png)
 
