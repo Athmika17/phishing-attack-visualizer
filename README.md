@@ -1,25 +1,27 @@
-# Phishing Attack Visualizer
+# 🛡️ Phishing Attack Visualizer
 
-A real-time, single-page dashboard to simulate and visualize phishing attacks.  
-This project was built as a **UI-focused proof-of-concept** for demonstrating development skills in a cybersecurity context.
+A **real-time, single-page dashboard** that simulates and visualizes phishing attacks.  
+This project was built as a **UI-focused proof of concept** to showcase web development skills in a **cybersecurity context** (inspired by Barracuda’s phishing protection focus).  
+
+![Phishing Attack Visualizer Screenshot](screenshot.png)
 
 ---
 
-## 🚀 Features
-- **Live Attack Feed**: Simulated phishing attempts appear in real-time with timestamps, source IP, target email, threat type, and status.  
-- **Status Indicators**: Clear color-coded badges with icons for Blocked, Investigating, and Allowed.  
-- **Threat Breakdown**: Dynamic doughnut chart showing distribution of threat types.  
-- **Animations**: Smooth slide-in feed, pulsing chart updates, and placeholder pulse animation.  
-- **Clean Dark UI**: Built with TailwindCSS for fast styling and a modern look.
+## ✨ Features
+- 📡 **Real-time Simulation** – New phishing attack logs appear every few seconds.  
+- 🎨 **Modern Dark UI** – Clean, responsive design styled with TailwindCSS.  
+- 📊 **Threat Breakdown Chart** – Interactive Chart.js pie chart for attack categories.  
+- 🟢 **Status Highlighting** – Attacks are labeled as Blocked ✅ or Investigating ⚠️ with color-coded UI.  
+- ⚡ **Lightweight** – Pure HTML, CSS, and JavaScript, no backend required.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3** (+ TailwindCSS via CDN)
-- **JavaScript (ES6)**
-- **Chart.js**
-- **Font Awesome**
+- **HTML5**  
+- **CSS3** (+ TailwindCSS via CDN)  
+- **JavaScript (ES6)**  
+- **Chart.js**  
+- **Font Awesome**  
 
 ---
 
