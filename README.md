@@ -24,3 +24,9 @@ This project was built as a **UI-focused proof-of-concept** for demonstrating de
 ---
 
 ## 📂 Project Structure
+phishing-attack-visualizer/
+│
+├── index.html # Main dashboard layout
+├── style.css # Custom styles + animations
+├── script.js # Attack simulation + chart logic
+└── README.md # Documentation
