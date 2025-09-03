@@ -23,4 +23,4 @@ This project was built as a **UI-focused proof of concept** to showcase web deve
 - **Chart.js**  
 - **Font Awesome**  
 
--
+
